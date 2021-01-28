@@ -1,6 +1,6 @@
 # Feedback on Raspberry Pi Pico and RP2040
 
-* Issues relating only to the Pico C/C++ SDK should be filed against the [`pico-sdk`](https://github.com/raspberrypi/pico-sdk) repo.
+* Issues relating only to the Raspberry Pi Pico C/C++ SDK should be filed against the [`pico-sdk`](https://github.com/raspberrypi/pico-sdk) repo.
 * Issues relating to the C example code should be filed against the [`pico-examples`](https://github.com/raspberrypi/pico-examples) repo.
 * Issues relating to the to [`pico-extras`](https://github.com/raspberrypi/pico-extras) or [`pico-playground`](https://github.com/raspberrypi/pico-playground) should also be filed against those repos.
 * ~Issues relating only to the MicroPython port should be filed against the `micropython` repo.~
