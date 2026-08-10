@@ -10,4 +10,4 @@ In general if there is a specific repo for the thing you have an issue around, y
 
 Issues relating to the MicroPython port should now be filed against the upstream [`micropython`](https://github.com/micropython/micropython) repo as MicroPython includes support for the RP2040 and RP2350 chips. MicroPython binaries can be downloaded from [here](https://micropython.org/download/?vendor=Raspberry%20Pi).
 
-Issues relating to the CircuitPython port should be filed against the upstream [`circuitpython`](https://github.com/adafruit/circuitpython) repoas CircuitPython includes support for the RP2040 and RP2350 chips. CircuitPython binaries can be downloaded from [here](https://circuitpython.org/board/raspberry_pi_pico/).
+Issues relating to the CircuitPython port should be filed against the upstream [`circuitpython`](https://github.com/adafruit/circuitpython) repo as CircuitPython includes support for the RP2040 and RP2350 chips. CircuitPython binaries can be downloaded from [here](https://circuitpython.org/downloads?q=Raspberry+Pi+Pico).
